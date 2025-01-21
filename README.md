@@ -7,4 +7,4 @@ karena desain ui/ux bukan keahlian saya abaikan saja tampilan nya
 # Catatan:
 Facebook melarang penggunaan program otomatis yang dapat menyebabkan masalah pada akun Anda.
 
-<iframe width="560" height="315" src="https://youtu.be/Uq0KlhrVzfs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Klik di sini untuk menonton video proyek saya di YouTube](https://www.youtube.com/watch?v=Uq0KlhrVzfs)
